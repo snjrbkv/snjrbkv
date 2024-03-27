@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad odil</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
-img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnhvZ2V6YWZrbGZpZnZnaTd5amw1czVtc3N2bGF1bmh1N2k2ZDRxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fnD9cHHIrYRYk/giphy.gif" 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snjrbkv&label=Profile%20views&color=0e75b6&style=flat" alt="snjrbkv" /> </p>
 
