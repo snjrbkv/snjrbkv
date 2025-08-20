@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning TypeScript<br><br>📫 How to reach me odilbeksarvarbekovich@gmail.com<br><br>⚡ Fun fact I enjoy experimenting with cooking new recipes from different cuisines around the world.
+📫 How to reach me odilbeksarvarbekovich@gmail.com<br><br>⚡ Fun fact I enjoy experimenting with cooking new recipes from different cuisines around the world.
 
 
 ## 🌐 Socials:
